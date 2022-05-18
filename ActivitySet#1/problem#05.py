@@ -11,4 +11,4 @@ def computepay(hrs,rate):
 hrs=float(input("Enter hours: "))
 rate=float(input("Enter the rate per hour:"))
 pay= computepay(hrs,rate)
-print("Pay",pay)
+print("Pay",pay) 
