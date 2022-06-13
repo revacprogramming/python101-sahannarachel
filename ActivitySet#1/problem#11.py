@@ -1,4 +1,6 @@
 # Tuples
 
 filename = "dataset/mbox-short.txt"
-2
+int main()
+int main
+in the following tuple statement

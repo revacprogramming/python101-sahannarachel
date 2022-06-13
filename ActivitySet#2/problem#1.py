@@ -16,3 +16,5 @@ def main():
 
   
 main()
+int main
+minimise the product on 
