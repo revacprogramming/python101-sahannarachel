@@ -16,5 +16,5 @@ def main():
 
   
 main()
-int main
-minimise the product on 
+#u need to call the function to for the function to work efficiently
+
