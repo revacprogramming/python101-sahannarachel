@@ -6,7 +6,7 @@ def input_two_numbers():
   return g,h
 
 
-def add(a, b):
+def add(a, b):  
   u=int(a)
   v=int(b)
   p= u+v
