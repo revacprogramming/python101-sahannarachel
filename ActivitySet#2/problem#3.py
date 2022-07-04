@@ -21,6 +21,6 @@ def main():
       #  out[short[0]] = short[1]
     print(lot)
 
-process=input('what process r u doing? \n')
+process=input('what process r u doing? \n')  
 if process == 'strsplit':
     main()
