@@ -11,4 +11,4 @@ for line in fh:
     lst=lst+y
 for i in lst:
     sum=sum+int(i)
-print(sum)
+print(sum)  
