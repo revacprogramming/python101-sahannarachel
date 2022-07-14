@@ -38,4 +38,4 @@ def main():
     #cs=lot_to_cs(lot) 
     #print(out.items())
     cs=lot_to_cs(lot)
-    print(cs) 
+    print(cs)    
