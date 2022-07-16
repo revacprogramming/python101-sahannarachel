@@ -1,20 +1,13 @@
-
-
-def add(a, b):
+def add(a,b):
   p=int(a)
   q=int(b)
-  c = p+q
-  return c  # ...
-
-
+  sum=p+q
+  return sum
 def main():
-    a = input("Enter 1st Number: ") # ...
-    b = input("Enter 2nd Number: ")  # ...
-    c = add(a, b)
-    print("Sum of",a,"and",b,"is",c) # ...
+  a=input('Enter 1st number?')
+  b=input('Enter 2nd number?')
+  sum=add(a,b)
+  print('Sum of',a,'and',b,'is',sum)
 
-
-  
 main()
-#u need to call the function to for the function to work efficiently
-
+  
