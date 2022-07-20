@@ -7,7 +7,7 @@ def get_cs():
 def cs_to_lot(cs,lst):
     word=cs.split(';')
     
-    for exam in word:
+    for exam in word:  
       short=exam.split('=')
       tups=(short[0],short[1])
       lst.append(tups)
